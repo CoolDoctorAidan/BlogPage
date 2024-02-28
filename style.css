@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Pixelated';
+    src: url(Fonts/PixeloidSans-mLxMm.ttf);
+}
+@font-face {
+    font-family: 'PixelatedBold';
+    src: url(Fonts/PixeloidSansBold-PKnYd.ttf);
+}
+
+.post {
+    background-color: rgb(94, 92, 71);
+    width: 1150px;
+    height: 900px;
+    border-radius: 4px;
+    border-style: dashed;
+    border-color: rgb(68, 60, 51);
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.div1 {
+    background-color: rgb(232, 229, 197);
+}
+.div2 {
+    background-color: rgb(147, 143, 104);
+}
+.imgdiv {
+    background-color: rgb(110, 107, 79);
+}
+.imagecent {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    color: white;
+    font-size: large;
+    font-family: 'Pixelated', sans-serif;
+}
+h3 {
+    font-family: 'PixelatedBold', sans-serif;
+    color: rgb(67, 67, 67);
+    font-size: x-large;
+}
+body {
+    background-color: rgb(189, 238, 255);
+}
